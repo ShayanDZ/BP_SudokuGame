@@ -9,8 +9,20 @@ After <ins> entering your username </ins> you will be able to choose the option 
 ### The Sudoku
 ![image](https://github.com/user-attachments/assets/92b1bfab-93ef-4495-9146-67e4f8821a04)
 
-you won't be able to change the *fixed numbers*.
 ### The Leaderboard
 It shows all the rocords.
+
+## Game Rules
+
++ You must complete the sudoku before the timer reaches 00:00 .
++ You won't be able to change the *fixed numbers* .
++ If you close the Game from the window nothing will be saved .
+
+## User Abilities
+
++ You can use **ESC** key to enter pause menu during the game.
++ You can save the game in the pause menu and use option 2 to continu playing it.
+
+[x] Hope you have fun
 
 
