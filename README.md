@@ -23,6 +23,6 @@ It shows all the rocords.
 + You can use **ESC** key to enter pause menu during the game.
 + You can save the game in the pause menu and use option 2 to continu playing it.
 
-[x] Hope you have fun
+👌 Hope you have fun 👌
 
 
